@@ -12,10 +12,7 @@
 
 🚀 Let's work together to develop extraordinary web experiences!
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn)](https://www.linkedin.com/in/arm-developer/) &nbsp; [![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ARM-developer<alejandrorm.dev@gmail.com>) &nbsp; [![Static Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-](https://twitter.com/Alexito123Ruiz) &nbsp; [![Static Badge](https://img.shields.io/badge/Facebook-Connect?style=flat&logo=facebook&color=%234267B2)
-](https://www.facebook.com/alejandro.ruizmay/) &nbsp; [![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-](https://www.instagram.com/alejandro.ruizmay) &nbsp; 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn)](https://www.linkedin.com/in/arm-developer/) &nbsp; [![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ARM-developer<alejandrorm.dev@gmail.com>) &nbsp; [![Static Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Alexito123Ruiz) &nbsp; [![Static Badge](https://img.shields.io/badge/Facebook-Connect?style=flat&logo=facebook&color=%234267B2)](https://www.facebook.com/alejandro.ruizmay/) &nbsp; [![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alejandro.ruizmay) &nbsp; 
 
 
 ## Skills
